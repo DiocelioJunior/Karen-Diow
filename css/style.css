@@ -22,7 +22,7 @@ body {
 
 #back-init{
   background-size: cover;
-  background-image: url(https://github.com/DiocelioJunior/Karen-Diow/blob/main/img/Foto-principal.jpg?raw=true);
+  background-image: url(https://raw.githubusercontent.com/DiocelioJunior/Karen-Diow/main/img/Foto-principal.jpg);
 }
 
 body.fh5co-offcanvas {
